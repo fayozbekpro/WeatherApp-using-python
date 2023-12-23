@@ -13,10 +13,10 @@
 # 💣 More details:
 
 1) First of all, the app has two themes: dark and light:
-   ![examples]([https://prnt.sc/J8zKMvDjm2Ek](https://raw.githubusercontent.com/fayozbekpro/WeatherApp-using-python/main/Screenshot_1.png)https://raw.githubusercontent.com/fayozbekpro/WeatherApp-using-python/main/Screenshot_1.png)
-   ![examples]([https://prnt.sc/J8zKMvDjm2Ek](https://raw.githubusercontent.com/fayozbekpro/WeatherApp-using-python/main/Screenshot_1.png)https://raw.githubusercontent.com/fayozbekpro/WeatherApp-using-python/main/Screenshot_1.png)
+   ![examples](https://raw.githubusercontent.com/fayozbekpro/WeatherApp-using-python/main/Screenshot_1.png)
+   ![examples](https://raw.githubusercontent.com/fayozbekpro/WeatherApp-using-python/main/Screenshot_2.png)
 3) You can choose the temperature whether in Celcius(°C) or Fahrenheit(°F) 
-   ![examples]([https://prnt.sc/J8zKMvDjm2Ek](https://raw.githubusercontent.com/fayozbekpro/WeatherApp-using-python/main/Screenshot_1.png)https://raw.githubusercontent.com/fayozbekpro/WeatherApp-using-python/main/Screenshot_3.png)
+   ![examples](https://raw.githubusercontent.com/fayozbekpro/WeatherApp-using-python/main/Screenshot_3.png)
 4) Used API: https://openweathermap.org/
 5) Python version: Python 3.7.0
 6) UI library: FLET - https://flet.dev/
