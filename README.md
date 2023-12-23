@@ -14,7 +14,7 @@
 
 1) First of all, the app has two themes: dark and light:
 
-
+---
 
     <img src="https://raw.githubusercontent.com/fayozbekpro/WeatherApp-using-python/main/Screenshot_1.png" width="500" alt="EXAMPLES"/>
    <br /><br />
