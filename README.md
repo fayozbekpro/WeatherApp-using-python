@@ -13,7 +13,8 @@
 # 💣 More details:
 
 1) First of all, the app has two themes: dark and light:
-   ![examples](https://raw.githubusercontent.com/fayozbekpro/WeatherApp-using-python/main/Screenshot_1.png)
+   ![examples]()
+   <img src="[relative/path/in/repository/to/image.svg](https://raw.githubusercontent.com/fayozbekpro/WeatherApp-using-python/main/Screenshot_1.png)" width="500" alt="EXAMPLES"/>
    ![examples](https://raw.githubusercontent.com/fayozbekpro/WeatherApp-using-python/main/Screenshot_2.png)
 3) You can choose the temperature whether in Celcius(°C) or Fahrenheit(°F) 
    ![examples](https://raw.githubusercontent.com/fayozbekpro/WeatherApp-using-python/main/Screenshot_3.png)
