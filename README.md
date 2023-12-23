@@ -16,11 +16,11 @@
 
 ---
 
-    <img src="https://raw.githubusercontent.com/fayozbekpro/WeatherApp-using-python/main/Screenshot_1.png" width="500" alt="EXAMPLES"/>
+<img src="https://raw.githubusercontent.com/fayozbekpro/WeatherApp-using-python/main/Screenshot_1.png" width="500" alt="EXAMPLES"/>
    <br /><br />
 
 
-   <img src="https://raw.githubusercontent.com/fayozbekpro/WeatherApp-using-python/main/Screenshot_2.png" width="500" alt="EXAMPLES"/>
+<img src="https://raw.githubusercontent.com/fayozbekpro/WeatherApp-using-python/main/Screenshot_2.png" width="500" alt="EXAMPLES"/>
 3) You can choose the temperature whether in Celcius(°C) or Fahrenheit(°F) 
 ---
 
@@ -28,4 +28,4 @@
 4) Used API: https://openweathermap.org/
 5) Python version: Python 3.7.0
 6) UI library: FLET - https://flet.dev/
-     <img src="https://flet.dev/img/logo.svg" width="500" alt="EXAMPLES"/>
+     <img src="https://flet.dev/img/logo.svg" width="200" alt="EXAMPLES"/>
