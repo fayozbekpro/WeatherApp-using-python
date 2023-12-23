@@ -18,14 +18,14 @@
 
     <img src="https://raw.githubusercontent.com/fayozbekpro/WeatherApp-using-python/main/Screenshot_1.png" width="500" alt="EXAMPLES"/>
    <br /><br />
-   \n
-   \n
 
 
    <img src="https://raw.githubusercontent.com/fayozbekpro/WeatherApp-using-python/main/Screenshot_2.png" width="500" alt="EXAMPLES"/>
 3) You can choose the temperature whether in Celcius(°C) or Fahrenheit(°F) 
+---
+
    <img src="https://raw.githubusercontent.com/fayozbekpro/WeatherApp-using-python/main/Screenshot_3.png" width="500" alt="EXAMPLES"/>
 4) Used API: https://openweathermap.org/
 5) Python version: Python 3.7.0
 6) UI library: FLET - https://flet.dev/
-   ![flet](https://flet.dev/img/logo.svg)
+     <img src="https://flet.dev/img/logo.svg" width="500" alt="EXAMPLES"/>
