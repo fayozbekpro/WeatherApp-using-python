@@ -8,3 +8,9 @@
 * ## Note: The app is only for windows OS
 
 
+
+
+# More details:
+
+1) First of all, the app has two themes: dark and light:
+   ![examples](https://prnt.sc/J8zKMvDjm2Ek)
